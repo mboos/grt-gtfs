@@ -1,0 +1,11 @@
+service_id,date,exception_type
+muw,20130701,2
+muwtf_merged_998606,20130701,2
+s_merged_998608,20130701,1
+muwtf_merged_998609,20130701,2
+s_merged_998605,20130701,1
+muw,20130805,2
+muwtf_merged_998606,20130805,2
+s_merged_998608,20130805,1
+muwtf_merged_998609,20130805,2
+s_merged_998605,20130805,1
