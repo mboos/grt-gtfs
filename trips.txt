@@ -900,7 +900,7 @@ route_id,service_id,trip_id,trip_headsign,direction_id,block_id,shape_id
 7-60,13FALL-All-Weekday-05,755503-13FALL-All-Weekday-05,"7C Conestoga Mall",0,121260,70029
 7-60,13FALL-All-Weekday-05,755504-13FALL-All-Weekday-05,"7 Downtown",1,121254,70117
 7-60,13FALL-All-Weekday-05,755505-13FALL-All-Weekday-05,"7 Downtown",0,121264,70014
-7-60,13FALL-All-Weekday-05,755506-13FALL-All-Weekday-05,"31 Lexington to UW",0,121235,70061
+7-60,13FALL-All-Weekday-05,755506-13FALL-All-Weekday-05,"7E UW via Columbia",0,121235,70061
 7-60,13FALL-All-Weekday-05,755507-13FALL-All-Weekday-05,"7E UW via Columbia",0,123202,70061
 7-60,13FALL-All-Weekday-05,755508-13FALL-All-Weekday-05,"7E UW via Columbia",0,121802,70061
 7-60,13FALL-All-Weekday-05,755509-13FALL-All-Weekday-05,"7E UW via Columbia",0,121234,70061
