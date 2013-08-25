@@ -1,10 +1,7 @@
-service_id,start_date,end_date,monday,tuesday,wednesday,thursday,friday,saturday,sunday
-muw,20130429,20130623,1,1,1,0,0,0,0
-a_merged_998604,20130429,20130623,0,0,0,0,0,1,0
-a_merged_998607,20130624,20130901,0,0,0,0,0,1,0
-muwtf_merged_998606,20130429,20130623,1,1,1,1,1,0,0
-s_merged_998608,20130624,20130901,0,0,0,0,0,0,1
-t,20130624,20130901,0,0,0,1,0,0,0
-tf,20130429,20130623,0,0,0,1,1,0,0
-muwtf_merged_998609,20130624,20130901,1,1,1,1,1,0,0
-s_merged_998605,20130429,20130623,0,0,0,0,0,0,1
+service_id,monday,tuesday,wednesday,thursday,friday,saturday,sunday,start_date,end_date
+13FALL-All-Sunday-03,0,0,0,0,0,0,1,20130902,20131222
+13FALL-All-Weekday-05,1,1,1,1,1,0,0,20130903,20131220
+13FALL-All-Weekday-05-0000100,0,0,0,0,1,0,0,20130903,20131220
+13FALL-All-Weekday-05-1111000,1,1,1,1,0,0,0,20130903,20131220
+13FALL-All-Weekday-05-0001100,0,0,0,1,1,0,0,20130903,20131220
+13FALL-All-Saturday-03,0,0,0,0,0,1,0,20130907,20131221
