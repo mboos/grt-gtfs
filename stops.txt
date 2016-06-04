@@ -2,6 +2,9 @@ stop_lat,zone_id,stop_lon,stop_id,stop_desc,stop_name,location_type
 43.498785,,-80.498918,2031,easyGO 2031,Meadowvale / Dansbury,0
 43.433097,,-80.436623,1869,easyGO 1869,Kinzie / Walker,0
 43.434163,,-80.43499,1868,easyGO 1868,Kinzie / Obermeyer,0
+43.38304436,,-80.42879558,3999,easyGO 3999,Doon Mills / Woodsmere,0
+43.410615,,-80.293662,1332_merged_998612,easyGO 1332,Fleming / Thompson,0
+43.38102377,,-80.33117177,1616_merged_998616,easyGO 1616,697 Coronation,0
 43.41642497,,-80.38766914,2318,easyGO 2318,Maple Grove / Cherry Blossom,0
 43.45187,,-80.487045,2319,easyGO 2319,Weber / Queen,0
 43.42906,,-80.379022,2316,easyGO 2316,Loblaws,0
@@ -39,6 +42,7 @@ stop_lat,zone_id,stop_lon,stop_id,stop_desc,stop_name,location_type
 43.46412,,-80.484247,2445,easyGO 2445,Lancaster / Hill,0
 43.45983,,-80.486818,2448,easyGO 2448,Wellington / St Leger,0
 43.458697,,-80.490313,2449,easyGO 2449,Wellington / Margaret,0
+43.407108,,-80.302233,1335_merged_998610,easyGO 1335,Sheldon / Balmoral,0
 43.499703,,-80.537457,2046,easyGO 2046,Conestogo / Colby,0
 43.498483,,-80.536587,2047,easyGO 2047,Conestogo / Durward,0
 43.51014,,-80.519108,2044,easyGO 2044,Bridge / Labrador,0
@@ -50,7 +54,7 @@ stop_lat,zone_id,stop_lon,stop_id,stop_desc,stop_name,location_type
 43.496408,,-80.531728,2049,easyGO 2049,Conestogo / Bauer,0
 43.471145,,-80.51389,2835,easyGO 2835,Weber / Lincoln,0
 43.402215,,-80.346653,3519,easyGO 3519,Concession / Trico,0
-43.399862,,-80.330815,3518,easyGO 3518,Industrial / Langs,0
+43.473523,,-80.516183,2834,easyGO 2834,Weber / Noecker,0
 43.429465,,-80.304333,3513,easyGO 3513,Rife / Bella,0
 43.429685,,-80.288827,3512,easyGO 3512,Kerwood / Ellis,0
 43.427642,,-80.318508,3511,easyGO 3511,Queen / Winston,0
@@ -70,7 +74,7 @@ stop_lat,zone_id,stop_lon,stop_id,stop_desc,stop_name,location_type
 43.400075,,-80.362027,1436,easyGO 1436,Eagle / William,0
 43.398303,,-80.363702,1437,easyGO 1437,Eagle / King,0
 43.466694,,-80.586075,3392,easyGO 3392,Erbsville / White Elm,0
-43.398437,,-80.342633,1432,easyGO 1432,Langs / Fairview Mennonite,0
+43.405352,,-80.277105,3395,easyGO 3395,Coulthard / Townline,0
 43.398698,,-80.345453,1433,easyGO 1433,Concession / Winterhalt,0
 43.446045,,-80.553957,1991,easyGO 1991,Thorndale / Appledale,0
 43.389973,,-80.346597,1622,easyGO 1622,King / Bishop,0
@@ -86,6 +90,7 @@ stop_lat,zone_id,stop_lon,stop_id,stop_desc,stop_name,location_type
 43.399956,,-80.368,1628,easyGO 1628,King / Fountain,0
 43.434542,,-80.534373,3209,easyGO 3209,Victoria / Path To Wexford,0
 43.43357,,-80.538688,3208,easyGO 3208,Victoria / Eastforest,0
+43.381342,,-80.331768,1616_merged_998602,easyGO 1616,697 Coronation,0
 43.435892,,-80.447073,2860,easyGO 2860,Franklin / Prospect,0
 43.431922,,-80.438915,2861,easyGO 2861,Weber / Kinzie,0
 43.429262,,-80.43487,2862,easyGO 2862,King / Kingsbury,0
@@ -108,7 +113,6 @@ stop_lat,zone_id,stop_lon,stop_id,stop_desc,stop_name,location_type
 43.494712,,-80.559533,1194,easyGO 1194,Northlake / Green Meadow,0
 43.494357,,-80.553547,1197,easyGO 1197,Northfield / Northgate,0
 43.493527,,-80.555927,1196,easyGO 1196,Northfield / Skylark,0
-43.455165,,-80.493923,3580,easyGO 3580,Weber / Via Rail Station,0
 43.40878,,-80.443455,1759,easyGO 1759,Wabanaki / Kevco,0
 43.406957,,-80.448535,1758,easyGO 1758,Manitou / Wabanaki,0
 43.405483,,-80.448345,1757,easyGO 1757,334 Manitou Dr.,0
@@ -167,6 +171,7 @@ stop_lat,zone_id,stop_lon,stop_id,stop_desc,stop_name,location_type
 43.498052,,-80.499417,2030,easyGO 2030,Dansbury / Canterbury,0
 43.5671,,-80.5613,3838,easyGO 3838,Arthur / Scotch Line,0
 43.5671,,-80.5615,3839,easyGO 3839,Arthur / Scotch Line,0
+43.5827,,-80.5624,3826_merged_998604,easyGO 3826,Arthur / South Parkwood,0
 43.429097,,-80.289172,1245,easyGO 1245,Ellis / Kerwood,0
 43.430943,,-80.293117,1244,easyGO 1244,Kerwood / Gees,0
 43.447772,,-80.559623,1987,easyGO 1987,Westvale / Foxhill,0
@@ -187,7 +192,7 @@ stop_lat,zone_id,stop_lon,stop_id,stop_desc,stop_name,location_type
 43.4611,,-80.5219,3743,easyGO 3743,William / Caroline,0
 43.3867,,-80.475,3740,easyGO 3740,Huron / Cranshaw,0
 43.3889,,-80.4718,3741,easyGO 3741,Huron / Newcastle,0
-43.445138,,-80.529582,3253,easyGO 3253,Westwood / Westwood Cres.,0
+43.394266,,-80.433365,1717_merged_998608,easyGO 1717,Pioneer / Old Carriage,0
 43.347993,,-80.304617,2275,easyGO 2275,Glenview / Mcdonald,0
 43.347808,,-80.306497,2274,easyGO 2274,Mckay / Glenview,0
 43.346242,,-80.299985,2277,easyGO 2277,Champlain / Christopher,0
@@ -224,6 +229,7 @@ stop_lat,zone_id,stop_lon,stop_id,stop_desc,stop_name,location_type
 43.4907,,-80.5813,3697,easyGO 3697,Lake Louise / Kelso,0
 43.357147,,-80.293797,1506,easyGO 1506,Main / Alexander,0
 43.356593,,-80.296798,1507,easyGO 1507,Main / Elgin,0
+43.45438199,,-80.46747834,2366_merged_998623,easyGO 2366,Krug / Becker,0
 43.39945,,-80.354483,3526,easyGO 3526,Westminster / Laurel,0
 43.379983,,-80.319342,3527,easyGO 3527,Hespeler / Abbotsford,0
 43.386152,,-80.389268,3524,easyGO 3524,Fountain / Blair,0
@@ -258,7 +264,7 @@ stop_lat,zone_id,stop_lon,stop_id,stop_desc,stop_name,location_type
 43.455717,,-80.544418,1969,easyGO 1969,Erb / Amos,0
 43.38386,,-80.335978,1618,easyGO 1618,Coronation / Blue Heron,0
 43.385793,,-80.338892,1619,easyGO 1619,Coronation / Oriole,0
-43.381342,,-80.331768,1616,easyGO 1616,697 Coronation,0
+43.461153,,-80.5329,1964,easyGO 1964,Erb / Beverley,0
 43.382493,,-80.333703,1617,easyGO 1617,Coronation / Highland,0
 43.378152,,-80.326393,1614,easyGO 1614,Coronation / Oliver,0
 43.458883,,-80.515292,3239,easyGO 3239,Union / King,0
@@ -335,9 +341,7 @@ stop_lat,zone_id,stop_lon,stop_id,stop_desc,stop_name,location_type
 43.386723,,-80.313593,1381,easyGO 1381,Elgin / Sekura,0
 43.384022,,-80.313643,1382,easyGO 1382,Munch / Kovac,0
 43.383192,,-80.317802,1383,easyGO 1383,Munch / Sekura,0
-43.5773,,-80.5632,3827,easyGO 3827,Arthur / Listowel,0
-43.5827,,-80.5624,3826,easyGO 3826,Arthur / South Parkwood,0
-43.5845,,-80.5623,3825,easyGO 3825,Arthur / Whippoorwill,0
+43.455165,,-80.493923,3580,easyGO 3580,Weber / Via Rail Station,0
 43.5894,,-80.5615,3824,easyGO 3824,Arthur / Howard,0
 43.5923,,-80.5634,3823,easyGO 3823,First / Snyder,0
 43.5934,,-80.5642,3822,easyGO 3822,Snyder / Second,0
@@ -349,6 +353,7 @@ stop_lat,zone_id,stop_lon,stop_id,stop_desc,stop_name,location_type
 43.455053,,-80.519694,2768,easyGO 2768,Union / Severn,0
 43.472128,,-80.595332,3584,easyGO 3584,Sir John A Macdonald Ss 1,0
 43.476159,,-80.513804,5006,easyGO 5006,Marshall / Carter,0
+43.455348,,-80.55564,3587,easyGO 3587,Fischer-Hallman / Winchester,0
 43.44357,,-80.512032,2762,easyGO 2762,Belmont / Victoria,0
 43.478062,,-80.484493,1945,easyGO 1945,Lancaster / Lang,0
 43.383328,,-80.29228,1369,easyGO 1369,Burnett / Buchanan,0
@@ -525,11 +530,12 @@ stop_lat,zone_id,stop_lon,stop_id,stop_desc,stop_name,location_type
 43.413895,,-80.472605,3030,easyGO 3030,Country Hill / Old Country,0
 43.41414,,-80.470667,3031,easyGO 3031,Country Hill / Coach Hill,0
 43.463842,,-80.52188,1906,easyGO 1906,Uptown Waterloo,0
-43.41349,,-80.467383,3032,easyGO 3032,Country Hill / Four Seasons,0
+43.41348999,,-80.46738297,3032,easyGO 3032,Country Hill / Four Seasons,0
 43.464092,,-80.521908,1907,easyGO 1907,Uptown Waterloo,0
-43.410978,,-80.466968,3033,easyGO 3033,Country Hill / Martinglen,0
+43.41097804,,-80.46696796,3033,easyGO 3033,Country Hill / Martinglen,0
 43.460267,,-80.518952,1904,easyGO 1904,King / Allen,0
 43.461687,,-80.521262,1905,easyGO 1905,King / William,0
+43.394266,,-80.433365,1717_merged_998622,easyGO 1717,Pioneer/Old Carriage,0
 43.458475,,-80.515339,1902,easyGO 1902,King / Union,0
 43.457088,,-80.511103,1900,easyGO 1900,Grand River Hospital,0
 43.38815,,-80.341618,1399,easyGO 1399,Dunbar / Grand Valley,0
@@ -545,13 +551,14 @@ stop_lat,zone_id,stop_lon,stop_id,stop_desc,stop_name,location_type
 43.584,,-80.5621,3812,easyGO 3812,Arthur / Southfield,0
 43.5891,,-80.5614,3813,easyGO 3813,Arthur / Oriole,0
 43.5769,,-80.563,3810,easyGO 3810,Arthur / Union,0
-43.5821,,-80.5624,3811,easyGO 3811,Arthur / Earl Martin,0
 43.598,,-80.5592,3816,easyGO 3816,Arthur / Wyatt,0
 43.5993,,-80.5581,3817,easyGO 3817,Arthur / Mill,0
 43.5945,,-80.5607,3814,easyGO 3814,Arthur / Brubacher,0
 43.5967,,-80.5601,3815,easyGO 3815,Arthur / Park,0
 43.6001,,-80.5592,3818,easyGO 3818,Church / Maple,0
 43.6001,,-80.5633,3819,easyGO 3819,Snyder / Church,0
+43.4006887,,-80.33107629,3518_merged_998621,easyGO 3518,Industrial / Langs,0
+43.5845,,-80.5623,3825_merged_998605,easyGO 3825,Arthur / Whippoorwill,0
 43.401157,,-80.327595,1425,easyGO 1425,Langs / Hespeler,0
 43.46496,,-80.461597,2331,easyGO 2331,Victoria / Turner,0
 43.348447,,-80.300417,2183,easyGO 2183,Christopher / Foster,0
@@ -673,8 +680,8 @@ stop_lat,zone_id,stop_lon,stop_id,stop_desc,stop_name,location_type
 43.3943,,-80.3032,3659,easyGO 3659,Franklin / Can-Amera,0
 43.498076,,-80.52883,1128,easyGO 1128,Conestoga Mall Terminal,0
 43.498071,,-80.528619,1129,easyGO 1129,Conestoga Mall Terminal,0
-43.473523,,-80.516183,2834,easyGO 2834,Weber / Noecker,0
 43.473167,,-80.55048,1120,easyGO 1120,Columbia / Village 1,0
+43.51099162,,-80.51381115,1121,easyGO 1121,Chesapeake / Chesapeake Cres,0
 43.474192,,-80.545442,1122,easyGO 1122,Uw - B. C. Matthews Hall,0
 43.47273,,-80.541218,1123,easyGO 1123,Uw - Davis Centre,0
 43.469388,,-80.539398,1124,easyGO 1124,Uw - Engineering,0
@@ -713,6 +720,7 @@ stop_lat,zone_id,stop_lon,stop_id,stop_desc,stop_name,location_type
 43.498857,,-80.554092,1233,easyGO 1233,Northlake / Mayview,0
 43.435822,,-80.304628,1238,easyGO 1238,Queen / Panabaker,0
 43.439152,,-80.30165,1239,easyGO 1239,River / Queen,0
+43.40543253,,-80.28709983,3398_merged_998627,easyGO 3398,Can-Amera / Baintree,0
 43.465298,,-80.488253,2487,easyGO 2487,Guelph / Edwin,0
 43.5448,,-80.5508,3809,easyGO 3809,Sawmill / Parkside,0
 43.5281,,-80.5553,3808,easyGO 3808,King / Printery,0
@@ -726,6 +734,8 @@ stop_lat,zone_id,stop_lon,stop_id,stop_desc,stop_name,location_type
 43.3855,,-80.4129,3802,easyGO 3802,Conestoga College / Pinnacle,0
 43.471185,,-80.484648,2481,easyGO 2481,Union / Lancaster,0
 43.457447,,-80.540497,1967,easyGO 1967,Erb / Mcdougall,0
+43.5845,,-80.5623,3825_merged_998619,easyGO 3825,Arthur / South Field,0
+43.4779153,,-80.43078349,3163,easyGO 3163,Shirley / Crestview,0
 43.358507,,-80.317615,2245,easyGO 2245,Grand / South Square,0
 43.40465,,-80.495155,2949,easyGO 2949,Erinbrook / Rockwood,0
 43.404427,,-80.492742,2948,easyGO 2948,Erinbrook / Tara,0
@@ -744,6 +754,7 @@ stop_lat,zone_id,stop_lon,stop_id,stop_desc,stop_name,location_type
 43.34919,,-80.284602,2221,easyGO 2221,Champlain / Carlos,0
 43.505112,,-80.525867,2088,easyGO 2088,Northfield / Wissler,0
 43.502133,,-80.533728,2089,easyGO 2089,King / Northfield,0
+43.397298,,-80.291405,3400,easyGO 3400,Burnett / Country Club,0
 43.500217,,-80.561388,2082,easyGO 2082,Northlake / Monarch,0
 43.502195,,-80.556478,2083,easyGO 2083,Northlake / Black Forest,0
 43.495908,,-80.566085,2080,easyGO 2080,Northlake / Conservation,0
@@ -843,7 +854,6 @@ stop_lat,zone_id,stop_lon,stop_id,stop_desc,stop_name,location_type
 43.456232,,-80.497412,2411,easyGO 2411,Wellington / Duke,0
 43.389722,,-80.449372,1711,easyGO 1711,Bechtel / Wheatfield,0
 43.389977,,-80.444883,1710,easyGO 1710,Bechtel / Anvil,0
-43.394266,,-80.433365,1717,easyGO 1717,Pioneer / Old Carriage,0
 43.393938,,-80.441627,1715,easyGO 1715,Pioneer / Upper Canada,0
 43.39528,,-80.445152,1714,easyGO 1714,Pioneer / Doon Village,0
 43.396097,,-80.429912,1719,easyGO 1719,Green Valley / Pioneer,0
@@ -855,6 +865,7 @@ stop_lat,zone_id,stop_lon,stop_id,stop_desc,stop_name,location_type
 43.494805,,-80.55713,1139,easyGO 1139,Northlake / Black Oak,0
 43.493625,,-80.556175,1138,easyGO 1138,Northfield / Skylark,0
 43.356545,,-80.336592,2141,easyGO 2141,Salisbury / Southgate,0
+43.51066959,,-80.51389947,1133,easyGO 1133,Chesapeake / Seawind,0
 43.500295,,-80.537427,1132,easyGO 1132,Northfield / Colby,0
 43.501633,,-80.53392,1131,easyGO 1131,Northfield / King,0
 43.498071,,-80.528415,1130,easyGO 1130,Conestoga Mall Terminal,0
@@ -931,6 +942,7 @@ stop_lat,zone_id,stop_lon,stop_id,stop_desc,stop_name,location_type
 43.43555689,,-80.56068206,3908,easyGO 3908,The Boardwalk,0
 43.43613716,,-80.51460996,3909,easyGO 3909,Westmount / Highland,0
 43.447803,,-80.503305,3112,easyGO 3112,Victoria / Henry,0
+43.399862,,-80.330815,3518_merged_998607,easyGO 3518,Industrial / Langs,0
 43.369698,,-80.283968,1534,easyGO 1534,Dobbie / Orion,0
 43.365565,,-80.314563,1471,easyGO 1471,Ainslie / Market,0
 43.347108,,-80.310308,2239,easyGO 2239,Glenview / Albert,0
@@ -1084,6 +1096,7 @@ stop_lat,zone_id,stop_lon,stop_id,stop_desc,stop_name,location_type
 43.444772,,-80.416537,1037,easyGO 1037,Lackner / Corfield,0
 43.451868,,-80.42481,1034,easyGO 1034,Lackner / Quaiser,0
 43.449693,,-80.423827,1035,easyGO 1035,Lackner / Oldfield,0
+43.47334861,,-80.44233529,3145,easyGO 3145,Bingemans Centre / Shirley,0
 43.50709,,-80.526702,1210,easyGO 1210,Frobisher / Mcmurray,0
 43.511095,,-80.531618,1216,easyGO 1216,Bathurst / Mcmurray,0
 43.510245,,-80.533948,1217,easyGO 1217,Bathurst / Rankin,0
@@ -1102,7 +1115,7 @@ stop_lat,zone_id,stop_lon,stop_id,stop_desc,stop_name,location_type
 43.416332,,-80.493978,2890,easyGO 2890,Dunsmere / Laurentian,0
 43.414297,,-80.50025,2893,easyGO 2893,Dunsmere / Westmount,0
 43.414923,,-80.498018,2892,easyGO 2892,Dunsmere / Radcliffe,0
-43.390347,,-80.324058,1454,easyGO 1454,Dunbar / Hespeler,0
+43.465173,,-80.584187,1106,easyGO 1106,Erbsville / Willowwood,0
 43.396073,,-80.358562,1455,easyGO 1455,King / Westminster,0
 43.4117,,-80.323612,1456,easyGO 1456,Smartcentres Cambridge,0
 43.410248,,-80.322898,1457,easyGO 1457,Smartcentres South,0
@@ -1140,6 +1153,7 @@ stop_lat,zone_id,stop_lon,stop_id,stop_desc,stop_name,location_type
 43.44916674,,-80.5236896,3919,easyGO 3919,Westmount / Glasgow,0
 43.4463196,,-80.52311848,3918,easyGO 3918,Westmount / Westwood,0
 43.346782,,-80.325512,2131,easyGO 2131,Stanley / Tait,0
+43.58078254,,-80.56278738,3826_merged_998618,easyGO 3826,Arthur / South Parkwood,0
 43.417072,,-80.49382,3489,easyGO 3489,Laurentian / Dunsmere,0
 43.417062,,-80.476083,3488,easyGO 3488,Block Line / Country Hill,0
 43.420853,,-80.466833,3481,easyGO 3481,St Marys Hs 4,0
@@ -1188,6 +1202,7 @@ stop_lat,zone_id,stop_lon,stop_id,stop_desc,stop_name,location_type
 43.434128,,-80.496052,3076,easyGO 3076,Stirling / Mausser,0
 43.494565,,-80.510352,2803,easyGO 2803,Lexington / Dunvegan,0
 43.395928,,-80.324343,1428,easyGO 1428,Hespeler / Bishop,0
+43.47913623,,-80.42805781,3164,easyGO 3164,Shirley / Riverview,0
 43.416423,,-80.450942,1858,easyGO 1858,Manitou / Webster,0
 43.415633,,-80.449853,1859,easyGO 1859,Manitou / Cress,0
 43.494485,,-80.504678,2801,easyGO 2801,Lee / Dansbury,0
@@ -1236,6 +1251,7 @@ stop_lat,zone_id,stop_lon,stop_id,stop_desc,stop_name,location_type
 43.450422,,-80.479057,2406,easyGO 2406,Krug / Rose,0
 43.45385,,-80.549322,1995,easyGO 1995,Erb / Roosevelt,0
 43.449822,,-80.48077,2407,easyGO 2407,Krug / Lancaster,0
+43.454382,,-80.467072,2366_merged_998609,easyGO 2366,Krug / Becker,0
 43.394223,,-80.417507,1739,easyGO 1739,Old Mill / Roos,0
 43.393325,,-80.414135,1738,easyGO 1738,Pinnacle / Old Mill,0
 43.389633,,-80.408063,1731,easyGO 1731,Conestoga College Rec Centre,0
@@ -1336,6 +1352,7 @@ stop_lat,zone_id,stop_lon,stop_id,stop_desc,stop_name,location_type
 43.455993,,-80.562198,1974,easyGO 1974,Keats Way / Sandford Fleming,0
 43.342228,,-80.293497,2288,easyGO 2288,Myers / Greenbrier,0
 43.3426,,-80.2912,2289,easyGO 2289,Myers / Cheese Factory,0
+43.39356256,,-80.3043277,1343_merged_998628,easyGO 1343,Can-Amera / Franklin,0
 43.4935,,-80.5085,3678,easyGO 3678,Dunvegan / Bairstow,0
 43.4959,,-80.502,3679,easyGO 3679,Dansbury / Bridge,0
 43.4901,,-80.4947,3672,easyGO 3672,Bridge / University,0
@@ -1366,6 +1383,7 @@ stop_lat,zone_id,stop_lon,stop_id,stop_desc,stop_name,location_type
 43.45913,,-80.434871,2386,easyGO 2386,Lackner / Banbury,0
 43.460342,,-80.442357,2389,easyGO 2389,Confederation / Lorraine,0
 43.460862,,-80.439878,2388,easyGO 2388,Lorraine / Heritage,0
+43.43555645,,-80.41677688,1103,easyGO 1103,Chicopee,0
 43.44234,,-80.474687,5003,easyGO 5003,Charles / Borden,0
 43.47231381,,-80.52427451,3581,easyGO 3581,King / Ezra,0
 43.438686,,-80.49307,5001,easyGO 5001,Highland / Spadina,0
@@ -1476,6 +1494,7 @@ stop_lat,zone_id,stop_lon,stop_id,stop_desc,stop_name,location_type
 43.416237,,-80.442388,1698,easyGO 1698,Wilson / Webster,0
 43.413463,,-80.442477,1699,easyGO 1699,Wilson / Kuntz Electroplating,0
 43.419118,,-80.326117,1278,easyGO 1278,Groh / Holiday Inn,0
+43.5773,,-80.5632,3827_merged_998603,easyGO 3827,Arthur / Listowel,0
 43.421505,,-80.31098,1270,easyGO 1270,Winston / Scottdale,0
 43.421907,,-80.314563,1271,easyGO 1271,Winston / Hipel,0
 43.424145,,-80.316075,1272,easyGO 1272,Winston / Edward,0
@@ -1557,6 +1576,7 @@ stop_lat,zone_id,stop_lon,stop_id,stop_desc,stop_name,location_type
 43.338007,,-80.29948,2285,easyGO 2285,Christopher / Wheatland,0
 43.340515,,-80.300523,2286,easyGO 2286,Christopher / Myers,0
 43.3415,,-80.297702,2287,easyGO 2287,Myers / Lorraine,0
+43.393722,,-80.30321,1343_merged_998614,easyGO 1343,Can-Amera / Franklin,0
 43.429878,,-80.450621,2578,easyGO 2578,Connaught / Franklin,0
 43.431368,,-80.454597,2576,easyGO 2576,Fourth / Connaught,0
 43.430572,,-80.452806,2577,easyGO 2577,Connaught / Sixth,0
@@ -1645,6 +1665,7 @@ stop_lat,zone_id,stop_lon,stop_id,stop_desc,stop_name,location_type
 43.478745,,-80.508278,2828,easyGO 2828,Lincoln / Margaret,0
 43.440708,,-80.505272,2758,easyGO 2758,Highland / Patricia,0
 43.440023,,-80.507973,2759,easyGO 2759,Belmont / Highland,0
+43.47485662,,-80.4394553,3147,easyGO 3147,Shirley / Hesh,0
 43.430723,,-80.525483,2978,easyGO 2978,Highland Hills Mall Terminal,0
 43.430587,,-80.525404,2979,easyGO 2979,Highland Hills Mall Terminal,0
 43.432938,,-80.488807,3058,easyGO 3058,Highland / Heiman,0
@@ -1678,6 +1699,7 @@ stop_lat,zone_id,stop_lon,stop_id,stop_desc,stop_name,location_type
 43.454482,,-80.434392,1689,easyGO 1689,Ottawa / Shaftsbury,0
 43.460802,,-80.42782,1688,easyGO 1688,Keewatin / Ottawa,0
 43.420845,,-80.475112,3025,easyGO 3025,Kingswood / Gracefield,0
+43.5773,,-80.5632,3827_merged_998617,easyGO 3827,Arthur / Union,0
 43.421747,,-80.307085,1269,easyGO 1269,Winston / Westbury,0
 43.421378,,-80.304445,1268,easyGO 1268,Winston / Gunn,0
 43.42788096,,-80.29793995,1263,easyGO 1263,Cooper / Phin,0
@@ -1723,6 +1745,7 @@ stop_lat,zone_id,stop_lon,stop_id,stop_desc,stop_name,location_type
 43.394842,,-80.316672,1319,easyGO 1319,Conestoga Transit Garage,0
 43.392683,,-80.315282,1318,easyGO 1318,Conestoga / Lena,0
 43.439785,,-80.531192,3123,easyGO 3123,Ingleside / Ingleside Place,0
+43.405382,,-80.2858,3398_merged_998613,easyGO 3398,Baintree / Can-Amera,0
 43.47479787,,-80.57253968,3949,easyGO 3949,Laurelwood / Bearinger,0
 43.41401146,,-80.37997156,3940,easyGO 3940,Cherry Blossom / Saltsman,0
 43.4086877,,-80.37319514,3941,easyGO 3941,Fountain / Ats,0
@@ -1742,6 +1765,7 @@ stop_lat,zone_id,stop_lon,stop_id,stop_desc,stop_name,location_type
 43.44524,,-80.491145,2753,easyGO 2753,Courtland / Benton,0
 43.441398,,-80.484513,2750,easyGO 2750,Courtland / Stirling,0
 43.484315,,-80.486892,2023,easyGO 2023,Bridge / Bridgeport Ps,0
+43.41370532,,-80.29487167,1331_merged_998625,easyGO 1331,Pinebush / Fleming,0
 43.45524,,-80.545303,1997,easyGO 1997,Erb / Amos,0
 43.459177,,-80.480408,2324,easyGO 2324,Victoria / Chestnut,0
 43.450743,,-80.51638,2692,easyGO 2692,545 Belmont Ave.,0
@@ -1769,7 +1793,6 @@ stop_lat,zone_id,stop_lon,stop_id,stop_desc,stop_name,location_type
 43.455598,,-80.463872,2369,easyGO 2369,Krug / Cambridge,0
 43.453692,,-80.46219,2368,easyGO 2368,Smithson / Belleview,0
 43.452555,,-80.46481,2367,easyGO 2367,Becker / Belleview,0
-43.454382,,-80.467072,2366,easyGO 2366,Krug / Becker,0
 43.453898,,-80.468453,2365,easyGO 2365,Krug / Dumfries,0
 43.453255,,-80.470418,2364,easyGO 2364,Krug / Melrose,0
 43.452652,,-80.472286,2363,easyGO 2363,Krug / East,0
@@ -1800,7 +1823,6 @@ stop_lat,zone_id,stop_lon,stop_id,stop_desc,stop_name,location_type
 43.5103,,-80.543,3727,easyGO 3727,King / Martin Grove,0
 43.4562,,-80.5145,3720,easyGO 3720,Park / Mt Hope,0
 43.4001,,-80.4847,3723,easyGO 3723,860 Trillium Dr,0
-43.465173,,-80.584187,1106,easyGO 1106,Erbsville / Willowwood,0
 43.376767,,-80.305702,2109,easyGO 2109,Elgin / Winter,0
 43.37845,,-80.306377,2108,easyGO 2108,Elgin / Avenue,0
 43.376517,,-80.316632,2103,easyGO 2103,Elmwood / Brooklyne,0
@@ -1853,7 +1875,6 @@ stop_lat,zone_id,stop_lon,stop_id,stop_desc,stop_name,location_type
 43.432588,,-80.29392,3542,easyGO 3542,Kerwood / Housler,0
 43.410883,,-80.311593,3543,easyGO 3543,Pinebush / Wayne,0
 43.461723,,-80.509325,3235,easyGO 3235,Moore / Roger,0
-43.461153,,-80.5329,1964,easyGO 1964,Erb / Beverley,0
 43.46018,,-80.535143,1965,easyGO 1965,Erb / Dietz,0
 43.460439,,-80.514335,3238,easyGO 3238,Union / Herbert,0
 43.410617,,-80.513898,2965,easyGO 2965,Wilderness / Pine Martin,0
@@ -1908,6 +1929,7 @@ stop_lat,zone_id,stop_lon,stop_id,stop_desc,stop_name,location_type
 43.471577,,-80.55539,1097,easyGO 1097,Columbia / Ron Eydt Village,0
 43.469288,,-80.538617,1090,easyGO 1090,University / Seagram,0
 43.476818,,-80.5408,1093,easyGO 1093,Columbia / Phillip,0
+43.38471895,,-80.4257893,3965,easyGO 3965,Doon South / Winding Wood,0
 43.470135,,-80.559598,1098,easyGO 1098,Columbia / Old Post,0
 43.46958789,,-80.56111218,1099,easyGO 1099,Columbia / Beechlawn,0
 43.42635,,-80.543892,3135,easyGO 3135,Bankside / Westforest,0
@@ -1953,9 +1975,16 @@ stop_lat,zone_id,stop_lon,stop_id,stop_desc,stop_name,location_type
 43.363012,,-80.291022,1529,easyGO 1529,Franklin / Moorefield,0
 43.424345,,-80.31005,1258,easyGO 1258,Franklin / Thomas,0
 43.427027,,-80.309848,1259,easyGO 1259,Franklin / Edward,0
+43.38730012,,-80.42355542,3959,easyGO 3959,Doon South / Windrush,0
+43.3846252,,-80.425973,3958,easyGO 3958,Doon South / Winding Wood,0
+43.38284978,,-80.42851264,3953,easyGO 3953,Doon Mills / Woodsmere,0
 43.462696,,-80.542633,3952,easyGO 3952,Keats / Shakespeare,0
 43.44956518,,-80.49253613,3951,easyGO 3951,Charles St. Terminal,0
 43.45570086,,-80.49198468,3950,easyGO 3950,Kitchener Train Station,0
+43.38302172,,-80.42697956,3957,easyGO 3957,Doon South / Forest Edge,0
+43.38594918,,-80.43144384,3956,easyGO 3956,Doon Mills / Pine Valley,0
+43.38720124,,-80.43541799,3955,easyGO 3955,Doon Mills / Apple Ridge,0
+43.39077064,,-80.4385429,3954,easyGO 3954,Doon Village / Anvil,0
 43.397458,,-80.361245,1626,easyGO 1626,King / Waterloo,0
 43.431417,,-80.4847,3056,easyGO 3056,Hoffman / Kehl,0
 43.464875,,-80.490067,2474,easyGO 2474,St Leger / Guelph,0
@@ -2039,9 +2068,11 @@ stop_lat,zone_id,stop_lon,stop_id,stop_desc,stop_name,location_type
 43.463347,,-80.524432,2005,easyGO 2005,Caroline /Father David Bauer,0
 43.466657,,-80.515267,2008,easyGO 2008,Erb / Moore,0
 43.467675,,-80.513498,2009,easyGO 2009,Erb / Devitt,0
+43.40729132,,-80.30113485,1335_merged_998624,easyGO 1335,Sheldon / Balmoral,0
 43.419188,,-80.474798,3026,easyGO 3026,Kingswood / Selkirk,0
 43.39418,,-80.466407,3559,easyGO 3559,Huron Heights Ss,0
 43.394083,,-80.466445,3558,easyGO 3558,Huron Heights Ss,0
+43.58092782,,-80.56245428,3811_merged_998620,easyGO 3811,Arthur / Earl Martin,0
 43.431487,,-80.479552,2910,easyGO 2910,Ottawa / Hoffman,0
 43.434327,,-80.47906,2911,easyGO 2911,Mill / Ottawa,0
 43.43522,,-80.483047,2912,easyGO 2912,Mill / Borden,0
@@ -2099,6 +2130,7 @@ stop_lat,zone_id,stop_lon,stop_id,stop_desc,stop_name,location_type
 43.476343,,-80.5098,2829,easyGO 2829,Marshall / Lincoln,0
 43.444408,,-80.545685,3146,easyGO 3146,Fischer-Hallman / University,0
 43.355722,,-80.301545,1526,easyGO 1526,Concession / Scrimger,0
+43.4768494,,-80.43377217,3148,easyGO 3148,Shirley / Cedarview,0
 43.457873,,-80.55446,3149,easyGO 3149,Keats Way / Midwood,0
 43.48259,,-80.506755,2826,easyGO 2826,Lincoln / Bluevale,0
 43.47975,,-80.507518,2827,easyGO 2827,Lincoln / Mayfield,0
@@ -2125,14 +2157,11 @@ stop_lat,zone_id,stop_lon,stop_id,stop_desc,stop_name,location_type
 43.39061,,-80.353122,1404,easyGO 1404,Hamilton / Union,0
 43.402043,,-80.319252,1339,easyGO 1339,Conestoga / Sheldon,0
 43.403142,,-80.315672,1338,easyGO 1338,Sheldon / Corydon,0
-43.407108,,-80.302233,1335,easyGO 1335,Sheldon / Balmoral,0
 43.40772,,-80.298715,1334,easyGO 1334,Sheldon / Balmoral,0
 43.40321,,-80.312398,1337,easyGO 1337,Sheldon / Wolseley,0
 43.406197,,-80.307652,1336,easyGO 1336,Sheldon / Franklin,0
-43.413215,,-80.294425,1331,easyGO 1331,Fleming / Pinebush,0
 43.41311,,-80.298437,1330,easyGO 1330,355 Pinebush Rd,0
 43.408788,,-80.293065,1333,easyGO 1333,Fleming / Sheldon,0
-43.410615,,-80.293662,1332,easyGO 1332,Fleming / Thompson,0
 43.43096,,-80.52795,3201,easyGO 3201,Highland / Highland Hills Mall,0
 43.44344,,-80.545728,3260,easyGO 3260,University / Fischer-Hallman,0
 43.466992,,-80.568283,1100,easyGO 1100,Columbia / Fischer-Hallman,0
@@ -2151,6 +2180,7 @@ stop_lat,zone_id,stop_lon,stop_id,stop_desc,stop_name,location_type
 43.375732,,-80.297143,1539,easyGO 1539,Franklin / Athlone,0
 43.371447,,-80.294337,1538,easyGO 1538,Clyde / Franklin,0
 43.4417,,-80.538622,3267,easyGO 3267,Westwood / Dayman,0
+43.394285,,-80.433662,1744_merged_998629,easyGO 1744,Pioneer/Old Carriage,0
 43.397282,,-80.377938,1633,easyGO 1633,Preston / Parkview,0
 43.440663,,-80.527048,3125,easyGO 3125,Victoria Hills Plaza,0
 43.436778,,-80.47667,5002,easyGO 5002,Courtland / Ottawa,0
@@ -2168,8 +2198,17 @@ stop_lat,zone_id,stop_lon,stop_id,stop_desc,stop_name,location_type
 43.360054,,-80.313507,1468,easyGO 1468,Ainslie / Dickson,0
 43.472233,,-80.579393,1111,easyGO 1111,Laurelwood / Beaver Crk. Rd.,0
 43.510357,,-80.53335,2063,easyGO 2063,Bathurst / Rankin,0
+43.38720924,,-80.42329307,3966,easyGO 3966,Doon South / Windrush,0
+43.40921608,,-80.32212383,3967,easyGO 3967,Pinebush / Conestoga Blvd,0
+43.38267139,,-80.4270871,3964,easyGO 3964,Doon South / Forest Edge,0
 43.40583,,-80.38609,1636,easyGO 1636,Gateway Park / King,0
+43.38707129,,-80.43526554,3962,easyGO 3962,Doon Mills / Apple Ridge,0
+43.38607613,,-80.43183295,3963,easyGO 3963,Doon Mills / Pine Valley,0
+43.39045962,,-80.40360668,3960,easyGO 3960,Conestoga College Door 3,0
+43.39069881,,-80.43866257,3961,easyGO 3961,Doon Village / Anvil,0
 43.432635,,-80.523322,3200,easyGO 3200,Highland / Highland Cres,0
+43.41040054,,-80.31548358,3968,easyGO 3968,Pinebush / Struck,0
+43.41105189,,-80.31169579,3969,easyGO 3969,Pinebush / Wayne,0
 43.44634,,-80.44953,2854,easyGO 2854,Franklin / Penrose,0
 43.465907,,-80.570812,1101,easyGO 1101,Columbia / Gatestone,0
 43.426197,,-80.54454,3638,easyGO 3638,Westforest / Bankside,0
@@ -2181,6 +2220,7 @@ stop_lat,zone_id,stop_lon,stop_id,stop_desc,stop_name,location_type
 43.459308,,-80.5735,3633,easyGO 3633,Leighland / Strathmere,0
 43.47897,,-80.549022,3630,easyGO 3630,R & T Park,0
 43.464127,,-80.541383,3631,easyGO 3631,University / Westmount,0
+43.390347,,-80.324058,1454,easyGO 1454,Dunbar / Hespeler,0
 43.46573,,-80.44636,2345,easyGO 2345,Natchez / Matthew,0
 43.464508,,-80.445297,2344,easyGO 2344,Natchez / Halifax,0
 43.468482,,-80.451117,2347,easyGO 2347,Victoria / Natchez,0
@@ -2249,7 +2289,7 @@ stop_lat,zone_id,stop_lon,stop_id,stop_desc,stop_name,location_type
 43.433195,,-80.521897,3567,easyGO 3567,Highland / Eagen,0
 43.443292,,-80.511228,3564,easyGO 3564,Victoria / Belmont,0
 43.446092,,-80.505015,3565,easyGO 3565,Victoria / West,0
-43.41122,,-80.471855,3034,easyGO 3034,Century Hill / Devonglen,0
+43.41122047,,-80.47185531,3034,easyGO 3034,Century Hill / Devonglen,0
 43.439812,,-80.420628,3568,easyGO 3568,Fairway / Sims Estate,0
 43.452305,,-80.424837,3569,easyGO 3569,Lackner / Bryan,0
 43.42404,,-80.49667,2903,easyGO 2903,Elmsdale / Chandler,0
@@ -2292,12 +2332,11 @@ stop_lat,zone_id,stop_lon,stop_id,stop_desc,stop_name,location_type
 43.437953,,-80.51043,3390,easyGO 3390,Highland / Lawrence,0
 43.49953,,-80.526273,3393,easyGO 3393,Conestoga Mall,0
 43.401255,,-80.36065,1435,easyGO 1435,336 Eagle St. N,0
-43.405352,,-80.277105,3395,easyGO 3395,Coulthard / Townline,0
+43.398437,,-80.342633,1432,easyGO 1432,Langs / Fairview Mennonite,0
 43.394946,,-80.274782,3394,easyGO 3394,Saginaw / Haddaway,0
 43.399635,,-80.336082,1430,easyGO 1430,Langs / Trico,0
 43.39885,,-80.340258,1431,easyGO 1431,Langs / Walter,0
 43.398275,,-80.292903,3399,easyGO 3399,Burnett / Can-Amera,0
-43.405382,,-80.2858,3398,easyGO 3398,Baintree / Can-Amera,0
 43.407668,,-80.389818,1637,easyGO 1637,Gateway Park / Tu Lane,0
 43.39644,,-80.365488,1438,easyGO 1438,Eagle / Hamilton,0
 43.394505,,-80.367483,1439,easyGO 1439,Eagle / Sherring,0
@@ -2306,7 +2345,6 @@ stop_lat,zone_id,stop_lon,stop_id,stop_desc,stop_name,location_type
 43.40031,,-80.318538,1340,easyGO 1340,500 Conestoga Blvd,0
 43.396665,,-80.31768,1341,easyGO 1341,Conestoga / Bishop,0
 43.391293,,-80.314528,1342,easyGO 1342,Dunbar / Conestoga,0
-43.393722,,-80.30321,1343,easyGO 1343,Can-Amera / Franklin,0
 43.391228,,-80.299799,1344,easyGO 1344,Saginaw / Green Vista,0
 43.389573,,-80.296447,1345,easyGO 1345,Saginaw / Cowan,0
 43.390142,,-80.292855,1346,easyGO 1346,Saginaw / Stonecairn,0
@@ -2343,6 +2381,17 @@ stop_lat,zone_id,stop_lon,stop_id,stop_desc,stop_name,location_type
 43.49833628,,-80.52404641,3882,easyGO 3882,Davenport / Conestoga Mall,0
 43.41904859,,-80.32502126,3889,easyGO 3889,Holiday Inn / Groh,0
 43.385,,-80.3979,3888,easyGO 3888,Conestoga College Cambridge Campus,0
+43.413215,,-80.294425,1331_merged_998611,easyGO 1331,Fleming / Pinebush,0
+43.41283051,,-80.30128124,3971,easyGO 3971,Pinebush / Balmoral,0
+43.41179383,,-80.30774132,3970,easyGO 3970,Pinebush / Franklin,0
+43.415287,,-80.28759566,3973,easyGO 3973,Pinebush / Thompson,0
+43.41389482,,-80.29501613,3972,easyGO 3972,Pinebush / Fleming,0
+43.41109353,,-80.28922006,3975,easyGO 3975,Thompson / Lingard,0
+-80.28603166,,43.41400978,3974,easyGO 3974,Thompson / Pinebush,0
+43.40901242,,-80.2929864,3977,easyGO 3977,Fleming / Sheldon,0
+43.41022247,,-80.2933568,3976,easyGO 3976,Fleming / Thompson,0
+43.4073519,,-80.30007217,3979,easyGO 3979,Sheldon / Balmoral,0
+43.40797615,,-80.29634227,3978,easyGO 3978,Sheldon / Thompson,0
 43.47925,,-80.549587,3629,easyGO 3629,R & T Park,0
 43.489357,,-80.545395,3628,easyGO 3628,Mccormick,0
 43.475772,,-80.526363,3621,easyGO 3621,University / King,0
@@ -2365,6 +2414,7 @@ stop_lat,zone_id,stop_lon,stop_id,stop_desc,stop_name,location_type
 43.438943,,-80.492757,3073,easyGO 3073,Spadina / Highland,0
 43.439837,,-80.466293,1880,easyGO 1880,King / Rockway Centre,0
 43.43616,,-80.491728,3074,easyGO 3074,Stirling / Highland,0
+43.394285,,-80.433662,1744_merged_998615,easyGO 1744,Pioneer / Old Carriage,0
 43.435302,,-80.494093,3075,easyGO 3075,Stirling / Lorne,0
 43.4393,,-80.4613,3715,easyGO 3715,Eastwood Ss,0
 43.4564,,-80.5098,3714,easyGO 3714,Kitchener Ci,0
@@ -2406,7 +2456,7 @@ stop_lat,zone_id,stop_lon,stop_id,stop_desc,stop_name,location_type
 43.45925,,-80.49728,2463,easyGO 2463,Weber / Wilhelm,0
 43.466065,,-80.503015,2468,easyGO 2468,Union / Ellis,0
 43.46709,,-80.50016,2469,easyGO 2469,Union / Margaret,0
-43.397298,,-80.291405,3400,easyGO 3400,Burnett / Country Club,0
+43.445138,,-80.529582,3253,easyGO 3253,Westwood / Westwood Cres.,0
 43.417413,,-80.303167,3409,easyGO 3409,Jamieson / Commerce,0
 43.418162,,-80.308162,3408,easyGO 3408,Jamieson / Woodland Plaza,0
 43.485105,,-80.55966,1188,easyGO 1188,Toll Gate / Highpoint,0
@@ -2444,6 +2494,7 @@ stop_lat,zone_id,stop_lon,stop_id,stop_desc,stop_name,location_type
 43.467887,,-80.509535,2663,easyGO 2663,Weber / Allen,0
 43.46546,,-80.505215,2660,easyGO 2660,Union / Weber,0
 43.466432,,-80.507112,2661,easyGO 2661,Weber / Bristol,0
+43.5821,,-80.5624,3811_merged_998606,easyGO 3811,Arthur / Earl Martin,0
 43.473488,,-80.515907,2668,easyGO 2668,Weber / Noecker,0
 43.476015,,-80.517943,2669,easyGO 2669,Weber / Lodge,0
 43.422437,,-80.487323,2938,easyGO 2938,Strasburg / Ottawa,0
@@ -2533,6 +2584,17 @@ stop_lat,zone_id,stop_lon,stop_id,stop_desc,stop_name,location_type
 43.41148328,,-80.49897846,3189,easyGO 3189,Block Line / Westmount,0
 43.404142,,-80.284498,3397,easyGO 3397,Coulthard / Baintree,0
 43.405275,,-80.28059,3396,easyGO 3396,Coulthard / Arthur Fach,0
+43.4100035,,-80.29346365,1332_merged_998626,easyGO 1332,Fleming / Thompson,0
+43.41373415,,-80.28611642,3988,easyGO 3988,Thompson / Pinebush,0
+43.41508764,,-80.28747325,3989,easyGO 3989,Pinebush / Thompson,0
+43.40292133,,-80.31869093,3984,easyGO 3984,Sheldon / Conestoga,0
+43.40055446,,-80.31847364,3985,easyGO 3985,505 Conestoga Blvd,0
+43.3966919,,-80.31750117,3986,easyGO 3986,Conestoga / Bishop,0
+43.41134492,,-80.28852899,3987,easyGO 3987,Thompson / Lingard,0
+43.40644743,,-80.30533112,3980,easyGO 3980,Sheldon / Franklin,0
+43.40478392,,-80.30998342,3981,easyGO 3981,Sheldon / Wolseley,0
+43.4030979,,-80.31230274,3982,easyGO 3982,Sheldon / Wolseley,0
+43.40295415,,-80.31530902,3983,easyGO 3983,Sheldon / Corydon,0
 43.336582,,-80.30108,3612,easyGO 3612,Langlaw / Schroeder,0
 43.457837,,-80.482622,2323,easyGO 2323,Queen / Lancaster,0
 43.456765,,-80.483491,2322,easyGO 2322,Queen / St Leger,0
@@ -2687,7 +2749,6 @@ stop_lat,zone_id,stop_lon,stop_id,stop_desc,stop_name,location_type
 43.414347,,-80.540648,3370,easyGO 3370,Driftwood / Driftwood Place,0
 43.395327,,-80.44554,1748,easyGO 1748,Pioneer / Doon Village,0
 43.39428,,-80.44828,1749,easyGO 1749,Pioneer / Perin,0
-43.394285,,-80.433662,1744,easyGO 1744,Pioneer / Old Carriage,0
 43.393533,,-80.436891,1745,easyGO 1745,Pioneer / Bechtel,0
 43.393663,,-80.43698,1746,easyGO 1746,Pioneer / Bechtel,0
 43.39412,,-80.441705,1747,easyGO 1747,Pioneer / Upper Canada,0
