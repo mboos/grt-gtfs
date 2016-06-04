@@ -1,5 +1,6 @@
 route_long_name,route_id,route_type,route_text_color,agency_id,route_color,route_url,route_desc,route_short_name
 UW-Lakeshore/SMH-Fairview Express Special,9903,3,,,,,,9903
+Test Route - Places,888,3,,,,,,888
 Northview Acres,60,3,,,,,,60
 Conestoga College/Cambridge Centre,61,3,,,,,,61
 Woodside,62,3,,,,,,62
@@ -28,7 +29,7 @@ Bridge,6,3,,,,,,6
 Lakeshore,9,3,,,,,,9
 University/Fairview Park,8,3,,,,,,8
 Huron Industrial AM Special,9931,3,,,,,,9931
-HHSS-Erinbrook/SMH-Laurentian Express Special,9951,3,,,,,,9951
+HHSS-Erinbrook Special,9951,3,,,,,,9951
 ECI-F2 Express Special,9953,3,,,,,,9953
 ECI-F1 Express Special,9952,3,,,,,,9952
 iXpress F-H,201,3,,,,,,201
@@ -44,7 +45,6 @@ Cherry Blossom BusPlus,72,3,,,,,,72
 Northfield Industrial Special,9932,3,,,,,,9932
 Late Night Loop,91,3,,,,,,91
 Frederick,15,3,,,,,,15
-SMH-Laurentian Special,9902,3,,,,,,9902
 University Loop,92,3,,,,,,92
 Rt 14 and 7 Evening Special,9983,3,,,,,,9983
 Waterloo Industrial,14,3,,,,,,14
