@@ -8,7 +8,6 @@ stop_lat,zone_id,stop_lon,stop_id,stop_name,location_type
 43.423803,,-80.38154,2317,Maple Grove / Fountain,0
 43.41628,,-80.37569,2314,Fountain / Toyota Gate 1,0
 43.418968,,-80.376648,2315,Fountain / Toyota Gate 2,0
-43.356033038,,-80.29892697,2312,Cherry Blossom / Fountain,0
 43.407695,,-80.37656,2313,Ats,0
 43.415303,,-80.383427,2310,Cherry Blossom / Barnes,0
 43.4827,,-80.5239,3773,Columbia / Weber,0
@@ -75,6 +74,7 @@ stop_lat,zone_id,stop_lon,stop_id,stop_name,location_type
 43.398303,,-80.363702,1437,Eagle / King,0
 43.466694,,-80.586075,3392,Erbsville / White Elm,0
 43.398437,,-80.342633,1432,Langs / Fairview Mennonite,0
+43.41879,,-80.325147,1275_merged_999106,Holiday Inn / Groh,
 43.398698,,-80.345453,1433,Concession / Winterhalt,0
 43.446045,,-80.553957,1991,Thorndale / Appledale,0
 43.389973,,-80.346597,1622,King / Bishop,0
@@ -292,6 +292,7 @@ stop_lat,zone_id,stop_lon,stop_id,stop_name,location_type
 43.426763,,-80.529348,3359,Queens / Westheights,0
 43.43639,,-80.513563,3358,Highland / Westmount,0
 43.5091,,-80.5173,3781,Chesapeake / Brigantine,0
+43.4126,,-80.3751,2312_merged_999101,Cherry Blossom / Fountain,
 43.414458,,-80.479017,1768,Forest Glen Terminal,0
 43.414385,,-80.478892,1769,Forest Glen Terminal,0
 43.382662,,-80.309812,1361,Elgin / Regal,0
@@ -350,6 +351,7 @@ stop_lat,zone_id,stop_lon,stop_id,stop_name,location_type
 43.5406,,-80.5534,3829,King / Front,0
 43.5441,,-80.5491,3828,Sawmill / Parkside,0
 43.455053,,-80.519694,2768,Union / Severn,0
+43.419163,,-80.326232,1276_merged_999116,Holiday Inn Terminal,
 43.44357,,-80.512032,2762,Belmont / Victoria,0
 43.478062,,-80.484493,1945,Lancaster / Lang,0
 43.383328,,-80.29228,1369,Burnett / Buchanan,0
@@ -491,6 +493,7 @@ stop_lat,zone_id,stop_lon,stop_id,stop_name,location_type
 43.402877,,-80.480323,1779,222 Mcintyre Dr.,0
 43.403002,,-80.477342,1778,Mcintyre / Mcbrine,0
 43.496873,,-80.515888,2806,Davenport / Path To Anndale,0
+43.356033038,,-80.29892697,2312_merged_999110,Cherry Blossom / Fountain,
 43.402057,,-80.51224,2998,Activa / Periwinkle,0
 43.485792,,-80.537551,1159,Hazel / Blythwood,0
 43.485729,,-80.539087,1158,Hazel / Wildwood,0
@@ -531,6 +534,7 @@ stop_lat,zone_id,stop_lon,stop_id,stop_name,location_type
 43.41414,,-80.470667,3031,Country Hill / Coach Hill,0
 43.494327,,-80.51354,2805,Davenport / Foxhunt,0
 43.463842,,-80.52188,1906,Uptown Waterloo,0
+43.419323,,-80.325685,1277_merged_999117,Holiday Inn Terminal,
 43.41349,,-80.467383,3032,Country Hill / Four Seasons,0
 43.464092,,-80.521908,1907,Uptown Waterloo,0
 43.410978,,-80.466968,3033,Country Hill / Martinglen,0
@@ -721,6 +725,7 @@ stop_lat,zone_id,stop_lon,stop_id,stop_name,location_type
 43.498857,,-80.554092,1233,Northlake / Mayview,0
 43.435822,,-80.304628,1238,Queen / Panabaker,0
 43.439152,,-80.30165,1239,River / Queen,0
+43.419323,,-80.325685,1277_merged_999108,Groh / Holiday Inn,
 43.465298,,-80.488253,2487,Guelph / Edwin,0
 43.5448,,-80.5508,3809,Sawmill / Parkside,0
 43.5281,,-80.5553,3808,King / Printery,0
@@ -919,7 +924,6 @@ stop_lat,zone_id,stop_lon,stop_id,stop_name,location_type
 43.412768,,-80.491483,2888,Block Line / Laurentian,0
 43.41515,,-80.49245,2889,Laurentian / Briar Knoll,0
 43.39304566,,-80.33635571,3878,Bishop / Mary,0
-43.440644379,,-80.55961863,3879,University / Westvale,0
 43.39,,-80.2839,3870,Saginaw / Chalk,0
 43.377136479,,-80.31332217,3871,Brooklyne / Glen,0
 43.592566773,,-80.5609297,3873,Arthur / First,0
@@ -1035,7 +1039,6 @@ stop_lat,zone_id,stop_lon,stop_id,stop_name,location_type
 43.44886,,-80.558158,1986,Westvale / Heather Hill,0
 43.419185,,-80.533138,3319,Westheights / Lorilee,0
 43.419552,,-80.53039,3318,Westheights / Mcgarry,0
-43.423543,,-80.446804,2594,Wilson / Traynor,0
 43.422587,,-80.522692,3311,Elm Ridge / Ramblewood,0
 43.423747,,-80.525033,3310,Elm Ridge / Silver Aspen,0
 43.420128,,-80.51942,3313,Forestwood / Forest Glen,0
@@ -1135,9 +1138,11 @@ stop_lat,zone_id,stop_lon,stop_id,stop_name,location_type
 43.451509,,-80.493726,1891,King / College,0
 43.452292,,-80.496107,1892,King / Francis,0
 43.452862,,-80.497921,1893,King / Victoria,0
+43.429578,,-80.309311,1310_merged_999118,Franklin / Adam,
 43.346782,,-80.325512,2131,Stanley / Tait,0
 43.417072,,-80.49382,3489,Laurentian / Dunsmere,0
 43.417062,,-80.476083,3488,Block Line / Country Hill,0
+43.511990297,,-80.52253964,3593_merged_999102,Bridge / Frobisher,
 43.420853,,-80.466833,3481,St Marys Hs,0
 43.420885,,-80.467008,3480,St Marys Hs,0
 43.420828,,-80.46654,3483,St Marys Hs,0
@@ -1177,7 +1182,6 @@ stop_lat,zone_id,stop_lon,stop_id,stop_name,location_type
 43.452712,,-80.464874,2399,Becker / Belleview,0
 43.462455,,-80.538915,2778,Father David Bauer,0
 43.464042,,-80.540582,2779,Westmount / University,0
-43.446827,,-80.475898,2649,Weber / Fairview Ave.,0
 43.452277,,-80.525484,2770,Union / Westmount,0
 43.452915,,-80.526198,2771,Westmount / Rusholme,0
 43.454447,,-80.527605,2772,Westmount / John,0
@@ -1193,6 +1197,7 @@ stop_lat,zone_id,stop_lon,stop_id,stop_name,location_type
 43.416423,,-80.450942,1858,Manitou / Webster,0
 43.415633,,-80.449853,1859,Manitou / Cress,0
 43.494485,,-80.504678,2801,Lee / Dansbury,0
+43.416373,,-80.450643,1850,Manitou/Webster,0
 43.419483,,-80.451733,1851,Fairway / Food Basics,0
 43.419985,,-80.448717,1852,589 Fairway Rd. South,0
 43.42053,,-80.445617,1853,Fairway / Wilson,0
@@ -1331,6 +1336,7 @@ stop_lat,zone_id,stop_lon,stop_id,stop_name,location_type
 43.455993,,-80.562198,1974,Keats Way / Sandford Fleming,0
 43.342228,,-80.293497,2288,Myers / Greenbrier,0
 43.3426,,-80.2912,2289,Myers / Cheese Factory,0
+43.512082,,-80.522668,3593_merged_999111,Frobisher / Bridge,
 43.4935,,-80.5085,3678,Dunvegan / Bairstow,0
 43.4959,,-80.502,3679,Dansbury / Bridge,0
 43.4901,,-80.4947,3672,Bridge / University,0
@@ -1362,7 +1368,7 @@ stop_lat,zone_id,stop_lon,stop_id,stop_name,location_type
 43.45913,,-80.434871,2386,Lackner / Banbury,0
 43.460342,,-80.442357,2389,Confederation / Lorraine,0
 43.460862,,-80.439878,2388,Lorraine / Heritage,0
-43.465053,,-80.573765,1103,Columbia / Chancery,0
+43.465053,,-80.573765,1103,Columbia / Chancery,
 43.455165,,-80.493923,3580,Weber / Via Rail Station,0
 43.471967,,-80.524161,3581,King / Ezra,0
 43.453741,,-80.522501,2769,Union / Dunbar,0
@@ -1472,15 +1478,13 @@ stop_lat,zone_id,stop_lon,stop_id,stop_name,location_type
 43.42274,,-80.445072,2595,Wilson / Balfour,0
 43.416237,,-80.442388,1698,Wilson / Webster,0
 43.413463,,-80.442477,1699,Wilson / Kuntz Electroplating,0
-43.419118,,-80.326117,1278,Holiday Inn Terminal,0
 43.421505,,-80.31098,1270,Winston / Scottdale,0
 43.421907,,-80.314563,1271,Winston / Hipel,0
 43.424145,,-80.316075,1272,Winston / Edward,0
 43.426893,,-80.318827,1273,Winston / Queen,0
 43.424292,,-80.32333,1274,Queen / Rooshill,0
-43.41879,,-80.325147,1275,Holiday Inn Terminal,0
-43.419163,,-80.326232,1276,Holiday Inn Terminal,0
-43.419323,,-80.325685,1277,Holiday Inn Terminal,0
+43.44634,,-80.44953,2854,Franklin / Penrose,0
+43.419118,,-80.326117,1278_merged_999114,Holiday Inn Terminal,
 43.418353,,-80.53508,3333,Westheights / Driftwood  Cntr,0
 43.44069,,-80.526673,3119,Chopin / Hazelglen,0
 43.419118,,-80.538958,3332,Driftwood / Westheights,0
@@ -1503,6 +1507,7 @@ stop_lat,zone_id,stop_lon,stop_id,stop_name,location_type
 43.420658,,-80.524857,3337,Mcgarry / Meadowbrook,0
 43.398573,,-80.324797,1478,499 Hespeler Rd.,0
 43.400472,,-80.325418,1479,Hespeler / Langs,0
+43.465333981,,-80.57294754,1102_merged_999104,Columbia / Gatestone,
 43.419918,,-80.526953,3336,Mcgarry / Forestwood,0
 43.43906,,-80.32024,1304,Scott / Milton,0
 43.441417,,-80.317413,1305,Poplar / Scott,0
@@ -1568,7 +1573,7 @@ stop_lat,zone_id,stop_lon,stop_id,stop_name,location_type
 43.457235,,-80.461087,2371,Krug / Sherwood,0
 43.458326,,-80.457814,2372,Krug / River,0
 43.457825,,-80.448255,2373,Lorraine / Birkshire,0
-43.512082,,-80.522668,3593,Frobisher / Bridge,0
+43.423543,,-80.446804,2594,Wilson / Traynor,0
 43.50591,,-80.535415,3592,Northland / Frobisher,0
 43.423913,,-80.447103,2596,Traynor / Wilson,0
 43.4527,,-80.55381,3590,Fischer-Hallman / Erb,0
@@ -1715,10 +1720,10 @@ stop_lat,zone_id,stop_lon,stop_id,stop_name,location_type
 43.417987,,-80.31196,1314,Holiday Inn / Cheval,0
 43.421783,,-80.31037,1313,Franklin / Winston,0
 43.424335,,-80.310203,1312,Franklin / Thomas,0
-43.429578,,-80.309311,1310,Franklin / Adam,0
 43.394842,,-80.316672,1319,Conestoga Transit Garage,0
 43.392683,,-80.315282,1318,Conestoga / Lena,0
 43.439785,,-80.531192,3123,Ingleside / Ingleside Place,0
+43.440644379,,-80.55961863,3879_merged_999112,University / Westvale,
 43.441147,,-80.498968,2756,Highland / Queen,0
 43.441318,,-80.502043,2757,Highland / West,0
 43.445883,,-80.493352,2754,Queen / Courtland,0
@@ -1728,6 +1733,7 @@ stop_lat,zone_id,stop_lon,stop_id,stop_name,location_type
 43.44524,,-80.491145,2753,Courtland / Benton,0
 43.441398,,-80.484513,2750,Courtland / Stirling,0
 43.484315,,-80.486892,2023,Bridge / Bridgeport Ps,0
+43.419118,,-80.326117,1278_merged_999105,Groh / Holiday Inn,
 43.45524,,-80.545303,1997,Erb / Amos,0
 43.459177,,-80.480408,2324,Victoria / Chestnut,0
 43.450743,,-80.51638,2692,545 Belmont Ave.,0
@@ -1939,6 +1945,7 @@ stop_lat,zone_id,stop_lon,stop_id,stop_name,location_type
 43.363012,,-80.291022,1529,Franklin / Moorefield,0
 43.424345,,-80.31005,1258,Franklin / Thomas,0
 43.427027,,-80.309848,1259,Franklin / Edward,0
+43.440643923,,-80.54948824,3879_merged_999103,University / Westvale,
 43.397458,,-80.361245,1626,King / Waterloo,0
 43.422638,,-80.521568,3340,Elm Ridge / Hickory Heights,0
 43.431417,,-80.4847,3056,Hoffman / Kehl,0
@@ -1993,7 +2000,7 @@ stop_lat,zone_id,stop_lon,stop_id,stop_name,location_type
 43.353335,,-80.333777,2138,Churchill / Dale,0
 43.354035,,-80.33225,2139,Hillcrest / Churchill,0
 43.446008,,-80.470857,2648,Borden / Weber,0
-43.465752,,-80.5717,1102,Columbia / Gatestone,0
+43.446827,,-80.475898,2649,Weber / Fairview Ave.,0
 43.452503,,-80.472598,2640,East / Krug,0
 43.454412,,-80.473902,2641,East / Chapel,0
 43.456388,,-80.47556,2642,East / Frederick,0
@@ -2146,9 +2153,9 @@ stop_lat,zone_id,stop_lon,stop_id,stop_name,location_type
 43.472233,,-80.579393,1111,Laurelwood / Beaver Crk. Rd.,0
 43.510357,,-80.53335,2063,Bathurst / Rankin,0
 43.399963,,-80.375685,1635,Shantz Hill / Preston Pkwy,0
+43.465752,,-80.5717,1102_merged_999113,Columbia / Gatestone,
 43.40583,,-80.38609,1636,Gateway Park / King,0
 43.432635,,-80.523322,3200,Highland / Highland Cres,0
-43.44634,,-80.44953,2854,Franklin / Penrose,0
 43.465907,,-80.570812,1101,Columbia / Gatestone,0
 43.426197,,-80.54454,3638,Westforest / Bankside,0
 43.43101,,-80.527137,3639,Highland / Highland Hls Mall,0
@@ -2193,6 +2200,7 @@ stop_lat,zone_id,stop_lon,stop_id,stop_name,location_type
 43.352117,,-80.317157,2126,Grand / Victoria,0
 43.346895,,-80.319773,2129,First / Caen,0
 43.348248,,-80.318088,2128,Middleton / Francis,0
+43.429101511,,-80.30965272,1310_merged_999109,Franklin / Shamrock,
 43.455588,,-80.499322,2410,Wellington / Waterloo,0
 43.462873,,-80.493773,2659,Margaret / Guelph,0
 43.46075,,-80.492575,2658,Margaret / Wilhelm,0
@@ -2513,6 +2521,7 @@ stop_lat,zone_id,stop_lon,stop_id,stop_name,location_type
 43.404142,,-80.284498,3397,Coulthard / Baintree,0
 43.405275,,-80.28059,3396,Coulthard / Arthur Fach,0
 43.336582,,-80.30108,3612,Langlaw / Schroeder,0
+43.419163,,-80.326232,1276_merged_999107,Groh / Holiday Inn,
 43.457837,,-80.482622,2323,Queen / Lancaster,0
 43.456765,,-80.483491,2322,Queen / St Leger,0
 43.454655,,-80.485306,2321,Queen / Margaret,0
@@ -2623,6 +2632,7 @@ stop_lat,zone_id,stop_lon,stop_id,stop_name,location_type
 43.446288,,-80.483787,2924,Charles / Cedar,0
 43.442815,,-80.481082,2927,Stirling / Kaufman Park,0
 43.446818,,-80.504197,3223,Victoria / Walnut,0
+43.41879,,-80.325147,1275_merged_999115,Holiday Inn Terminal,
 43.438807,,-80.52431,3214,Hazelglen / Mooregate,0
 43.440347,,-80.526422,3215,Hazelglen / Chopin,0
 43.443355,,-80.523068,3216,Chopin / Westmount,0
@@ -2714,8 +2724,6 @@ stop_lat,zone_id,stop_lon,stop_id,stop_name,location_type
 43.501295,,-80.500282,2033,Lexington / Bertha,0
 43.399867,,-80.459253,1789,Trillium / Trillium Park,0
 43.4926,,-80.5816,3698,Lake Louise / Pinery,0
-43.416373,,-80.450643,1850_merged_999101,Manitou / Cress,
-43.416373,,-80.450643,1850_merged_999102,Manitou/Webster,
 43.435407,,-80.51246,3197,Westmount / Overlea,0
 43.433308,,-80.509872,3196,Westmount / Queens,0
 43.431025,,-80.508848,3195,Westmount / Forest Hill,0
