@@ -12,12 +12,10 @@ University/Fairview Park,8,3,,,,,,8
 Huron Industrial AM Special,9931,3,,,,,,9931
 Kitchener Train Stn. Shuttle,9935,3,,,,,,9935
 INIT Test Route KWSA,999,3,,,,,,999
-aBRT Test Route,998,3,,,,,,998
 SD-Northlake Special,9955,3,,,,,,9955
 Christopher,59,3,,,,,,59
 Rt 32 and 7 Evening Special,9983,3,,,,,,9983
 Northlake Special,9903,3,,,,,,9903
-UW Special 2,9907,3,,,,,,9907
 SD-Eastbridge/SMH-S1 Express Special,9904,3,,,,,,9904
 SD-Auburn/BCI Dansbury Special,9902,3,,,,,,9902
 Elmwood,58,3,,,,,,58
@@ -64,7 +62,7 @@ Winston,66,3,,,,,,66
 Lovell Industrial,67,3,,,,,,67
 KCI-Downtown Special,9977,3,,,,,,9977
 ECI-F3 Express/SMH-Biehn Special,9976,3,,,,,,9976
-ECI-F2 Express/SMH-Doon Valley/110 Special,9975,3,,,,,,9975
+ECI-F2 Express/SMH-Doon Valley Special,9975,3,,,,,,9975
 Forest Hill,2,3,,,,,,2
 CHCI-Laurentian/SMH-Lackner Special,9973,3,,,,,,9973
 CHCI-Forest Glen/SMH-Old Chicopee Special,9972,3,,,,,,9972
