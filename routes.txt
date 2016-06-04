@@ -1,6 +1,5 @@
 route_long_name,route_id,route_type,route_text_color,agency_id,route_color,route_url,route_desc,route_short_name
 UW-Lakeshore/SMH-Fairview Express Special,9903,3,,,,,,9903
-Test Route - Places,888,3,,,,,,888
 Northview Acres,60,3,,,,,,60
 Conestoga College/Cambridge Centre,61,3,,,,,,61
 Woodside,62,3,,,,,,62
@@ -8,7 +7,6 @@ Champlain,63,3,,,,,,63
 Langs,64,3,,,,,,64
 Fairview Park/Conestoga College Express,110,3,,,,,,110
 Lovell Industrial,67,3,,,,,,67
-Ainslie Street/Conestoga College Express,111,3,,,,,,111
 Highland,24,3,,,,,,24
 Queen South,25,3,,,,,,25
 Chicopee,27,3,,,,,,27
@@ -39,13 +37,11 @@ iXpress University,202,3,,,,,,202
 Rt 7 Eastwood Special,9904,3,,,,,,9904
 Doon South Bus Plus,76,3,,,,,,76
 Saginaw,75,3,,,,,,75
-FGP-Downtown Special,9905,3,,,,,,9905
 Northlake BusPlus,73,3,,,,,,73
 Cherry Blossom BusPlus,72,3,,,,,,72
 Northfield Industrial Special,9932,3,,,,,,9932
 Late Night Loop,91,3,,,,,,91
 Frederick,15,3,,,,,,15
-University Loop,92,3,,,,,,92
 Rt 14 and 7 Evening Special,9983,3,,,,,,9983
 Waterloo Industrial,14,3,,,,,,14
 Country Hills,11,3,,,,,,11
@@ -67,7 +63,6 @@ Fairview Park/Ainslie Street,52,3,,,,,,52
 ECI-Downtown 2 Special,9964,3,,,,,,9964
 Huron,33,3,,,,,,33
 St. Andrews,55,3,,,,,,55
-Forest Glen/Conestoga College Express,116,3,,,,,,116
 ECI-King East Special,9961,3,,,,,,9961
 GCI PM Northview Special,9851,3,,,,,,9851
 ECI-Downtown 1 Special,9963,3,,,,,,9963
