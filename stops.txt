@@ -2387,7 +2387,7 @@ stop_lat,zone_id,stop_lon,stop_id,stop_desc,stop_name,location_type
 43.415287,,-80.28759566,3973,easyGO 3973,Pinebush / Thompson,0
 43.41389482,,-80.29501613,3972,easyGO 3972,Pinebush / Fleming,0
 43.41109353,,-80.28922006,3975,easyGO 3975,Thompson / Lingard,0
--80.28603166,,43.41400978,3974,easyGO 3974,Thompson / Pinebush,0
+43.41400978,,-80.28603166,3974,easyGO 3974,Thompson / Pinebush,0
 43.40901242,,-80.2929864,3977,easyGO 3977,Fleming / Sheldon,0
 43.41022247,,-80.2933568,3976,easyGO 3976,Fleming / Thompson,0
 43.4073519,,-80.30007217,3979,easyGO 3979,Sheldon / Balmoral,0
