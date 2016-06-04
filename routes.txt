@@ -1,6 +1,5 @@
 route_long_name,route_id,route_type,route_text_color,agency_id,route_color,route_url,route_desc,route_short_name
 UW-Lakeshore/SMH-Fairview Express Special,9903,3,,,,,,9903
-Test Route - Places,888,3,,,,,,888
 Northview Acres,60,3,,,,,,60
 Conestoga College/Cambridge Centre,61,3,,,,,,61
 Woodside,62,3,,,,,,62
@@ -9,7 +8,6 @@ Langs,64,3,,,,,,64
 Fairview Park/Conestoga College Express,110,3,,,,,,110
 Lovell Industrial,67,3,,,,,,67
 Ainslie Street/Conestoga College Express,111,3,,,,,,111
-GCI AM Special,9801,3,,,,,,9801
 Highland,24,3,,,,,,24
 Queen South,25,3,,,,,,25
 Chicopee,27,3,,,,,,27
@@ -73,5 +71,5 @@ Forest Glen/Conestoga College Express,116,3,,,,,,116
 ECI-King East Special,9961,3,,,,,,9961
 GCI PM Northview Special,9851,3,,,,,,9851
 ECI-Downtown 1 Special,9963,3,,,,,,9963
-GCI Northview/ARC Industries,9854,3,,,,,,9854
+GCI AM Special,9801,3,,,,,,9801
 Blair Road,57,3,,,,,,57
